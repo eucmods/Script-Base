@@ -12,7 +12,7 @@ DEV = {
 	end,
 	
 	['SPEED'] = function()
-	Memory("il2cpp",0x1018348,"1E00A0E31EFF2FE1");
+	Memory("il2cpp",0x1018348,"1E00A0E31EFF2FE1")
 	ToastX("SPEED ON")
 	end
 }
